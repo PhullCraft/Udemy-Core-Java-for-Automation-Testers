@@ -12,7 +12,7 @@ public class FirstClass {
 		System.out.println("!");
 		System.out.println("This is first program");
 		System.out.println("This is end of "+ a +" year");
-		System.out.println("This wasa good year");
+		System.out.println("This was a good year");
 
 	}
 
