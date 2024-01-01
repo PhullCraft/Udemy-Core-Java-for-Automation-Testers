@@ -13,6 +13,7 @@ public class FirstClass {
 		System.out.println("This is first program");
 		System.out.println("This is end of "+ a +" year");
 		System.out.println("This was a good year");
+		System.out.println("This is practice of git as well");
 
 	}
 
