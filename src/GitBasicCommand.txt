@@ -1,0 +1,4 @@
+
+1)Command: git branch
+  Description: This command is used to know current branch being used.
+  
